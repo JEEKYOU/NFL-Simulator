@@ -13,4 +13,5 @@ docker-compose up -d
 The frontend of the application will then be viewable on `localhost:3000`.
 
 To correctly return results for your league, you'll need to tune the variables in `backend/models/config.py` to your league's settings and create a couple of CSV files
+/n
 Didn't have time to create a Loom video
